@@ -1179,4 +1179,7 @@
   <include name="snippets/remove.xml" />
   <include name="snippets/awaken.xml" />
   <include name="snippets/lineage.xml" />
+
+  <!-- awakenOS sweet -->
+  <include name="snippets/sweet.xml" />
 </manifest>
